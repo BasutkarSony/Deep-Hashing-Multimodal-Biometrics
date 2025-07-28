@@ -1,0 +1,45 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.pyd
+
+# Distribution/build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Data/model outputs
+Dataset/
+model/
+testImages/
+*.h5
+*.pkl
+*.npz
+*.csv
+
+# IDE/workspace files
+.vscode/
+.idea/
+*.swp
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.tmp
