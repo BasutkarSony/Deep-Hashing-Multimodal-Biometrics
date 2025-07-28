@@ -36,16 +36,16 @@ Tested on a dataset of 20 users, the system achieves **high classification accur
 
 1. **Clone the repository**
 
+<pre>
 git clone https://github.com/BasutkarSony/Deep-Hashing-Multimodal-Biometrics.git
 cd Deep-Hashing-Multimodal-Biometrics
+</pre>
 
-text
 
 2. **Create a virtual environment**
 
 python -m venv .venv
 
-text
 
 3. **Activate the virtual environment**
 
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 text
 
 ---
-
+<pre>
 ## Project Structure
 
 deep-hashing-for-secure-multimodal-biometrics/
@@ -105,8 +105,7 @@ TestImages/ # Test Images Folder
 ├── .gitignore # Files/folders ignored by git
 ├── README.md # This file
 └── LICENSE # Project license
-
-text
+</pre>
 
 ---
 
